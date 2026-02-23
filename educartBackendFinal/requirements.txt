@@ -1,0 +1,10 @@
+fastapi
+sqlmodel
+passlib
+pydantic-settings
+python-jose[cryptography]
+python-multipart
+pymysql
+uvicorn[standard]
+pydantic[email]
+sqlalchemy<2.0.36
